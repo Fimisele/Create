@@ -1,0 +1,585 @@
+.water{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    height: 70px;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.blue{
+    background-image: url(Image20240722192633.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.blue h1{
+ color: white;
+padding-left: 870px;
+padding-top: 600px;
+font-size: 50px; 
+}
+
+.blue p{
+padding-left: 870px;
+color: turquoise;
+font-size: 25px;
+}
+
+.blue button{
+margin-left: 950px;
+border-radius: 30px;
+background-color: turquoise;
+color: aliceblue;
+padding: 20px;
+}
+
+.protakingdom{
+display: flex;
+justify-content: space-around;
+}
+
+.protasimulator{
+    width: 300px;
+}
+
+.protasimulator h1{
+    color: turquoise;
+}
+
+.live{
+margin-top: 100px;
+}
+
+.Roblox{
+    width: 300px;
+}
+
+.Roblox h1{
+    color: turquoise;
+}
+
+.games{
+    width: 300px;
+}
+
+.games h1{
+color: turquoise;
+}
+
+.class h1{
+text-align: center;
+}
+
+.class p{
+text-align: center;
+
+}
+.GTA5 img{
+width: 600px;
+}
+
+.sui img{
+width: 600px;
+}
+
+.GTA5{
+display: flex;
+justify-content: space-around;
+}
+
+.sui{
+display: flex;
+justify-content: space-around;
+margin-top: 20px;
+}
+
+.cruel h1{
+text-align: center;
+
+}
+
+.cruel p{
+text-align: center;
+} 
+.cruel{
+margin-top: 100px;
+}
+
+.xea{
+display: flex;
+justify-content: space-around;
+}
+
+.win{
+display: flex;
+justify-content: space-around;
+}
+
+.winner{
+width: 300px;
+}
+
+.run{
+width: 300px;
+}
+
+.Break{
+width: 300px;
+}
+
+.gag{
+width: 300px;
+}
+
+.yag{
+width: 300px;
+}
+
+.sag{
+width: 300px;
+}
+
+.Football h1{
+text-align: center;
+}
+
+.Football{
+margin-top: 100px;
+}
+
+.gag h1{
+text-align: center;
+color: turquoise;    
+}
+
+.yag h1{
+text-align: center; 
+color: turquoise;   
+}
+
+.sag h1{
+text-align: center;   
+color: turquoise; 
+}
+
+.winner h1{
+text-align: center;
+color: turquoise;
+}
+
+.run h1{
+text-align: center;
+color: turquoise;
+}
+
+.Break h1{
+text-align: center;
+color: turquoise;
+}
+ 
+.About{
+display: flex;
+justify-content: space-around;
+}
+
+.rats img{
+width: 500px;
+}
+
+.big{
+    width: 400px ;
+}
+
+
+.blaze{
+display: flex;
+justify-content: space-between;
+}
+
+.About{
+margin-top: 100px;
+}
+
+.ourteam{
+text-align: center;
+margin-top:100px 
+}
+
+.prime{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ASP{
+   width: 400px; 
+}
+
+.vegies{
+    width: 400px;
+}
+
+.art{
+    width: 400px;
+}
+
+.ASP img{
+    border-radius: 50%;
+}
+
+.vegies img{
+    border-radius: 50%;
+}
+
+.art img{
+    border-radius: 50%;
+}
+
+.pat{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin:0px auto ;
+    width: 70%;
+    
+}
+
+.pat h1{
+    color: turquoise;
+}
+
+.clap h1{
+    text-align: center;
+}
+
+.skibidi{
+width: 400px;
+}
+
+.was{
+width: 400px;    
+}
+
+.horns{
+width: 400px;    
+}
+
+.skibidi img{
+    width: 398px;
+}
+
+.was img{
+    width: 398px;
+}
+    
+.horns img{
+    width: 398px;
+}
+
+.clap{
+    margin-top: 100px;
+}
+
+.zach img{
+width: 500px;
+}
+
+.hp{
+    display: flex;
+    background-color: black;
+    width: 67%;
+    margin:0px auto;
+    margin-top: 150px;
+    padding: 20px;
+    gap: 100px;
+}
+
+.hp h1{
+    color: white;
+}
+
+.hp p{
+    color: white;
+}
+
+.bro{
+width: 300px;
+}
+
+.too{
+   width: 300px; 
+}
+
+.bird{
+    width: 300px;
+}
+
+.mice{
+    width: 300px;
+}
+
+.white2{
+    display: flex;
+}
+
+.white{
+    display: flex;
+}
+
+.holdwhite{
+    display: grid;
+}
+
+.sun{
+    background-color: turquoise;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.m{
+height:50vh ;
+background-color: rgb(31, 25, 25);
+display: flex;
+gap: 54px;
+padding: 70px;
+margin: 0 auto;
+}
+
+.o{
+width: 400px;    
+}
+
+.o h1{
+color: aliceblue;
+}
+
+.o p{
+color: grey;    
+}
+
+.u{
+color:aliceblue ;
+
+}
+
+.n{
+    color: aliceblue;
+}
+
+.t{
+    color: aliceblue;
+}
+
+.Follow{
+    display: flex;
+    gap: 30px;
+}
+
+.t .avengers input{
+    padding: 5px;
+    border-radius:30px 0px 0px 30px;
+}
+
+.avengers{
+display: flex;
+}
+
+.t .avengers p{
+background-color: turquoise;
+padding: 10px;
+border-radius:0px 30px 30px 0px ;
+}
+
+.m{
+    padding-left: 400px;
+}
+
+@media (max-width:480px) {
+    ul{
+        display: none;
+       
+    }
+    .blue{
+        height: 100vh;
+        background-size: contain;
+        background-attachment: fixed;
+    }
+    .blue h1{
+        color: black;
+       padding-left: 70px;
+       padding-top: 150px;
+       font-size: 40px; 
+       }
+       
+       .blue p{
+       padding-left: 70px;
+       color: turquoise;
+       font-size: 20px;
+       }
+       
+       .blue button{
+       margin-left: 75px;
+       border-radius: 30px;
+       background-color: turquoise;
+       color: aliceblue;
+       padding: 20px;
+       }
+       .protakingdom{
+        display: grid;
+        justify-content: space-around;
+        }
+        .GTA5 img{
+            width: 300px;
+            }
+            
+        .sui img{
+            width: 300px;
+            }
+            
+        .GTA5{
+            display: grid;
+            gap: 10px;
+            justify-content: space-around;
+            }
+            
+        .sui{
+            display: grid;
+            gap: 10px;
+            justify-content: space-around;
+            margin-top: 10px;
+            }
+        .zach img{
+                width: 280px;
+                }
+                
+        .hp{
+                display: grid;
+                background-color: black;
+                width: 80%;
+                margin:0px auto;
+                margin-top: 50px;
+                padding: 8px;
+                gap: 80px;
+            }
+            .white2{
+                display: grid;
+            }
+            
+            .white{
+                display: grid;
+            }
+            .xea{
+                display: grid;
+                justify-content: space-around;
+                }
+                .win{
+                    display: grid;
+                    justify-content: space-around;
+                    }
+            .About{
+                display: grid;
+                width: 95%;
+            }
+            .blaze{
+                display: grid;
+                justify-content: space-between;
+                }
+            .rats img{
+                    width: 300px;
+                    }
+                    
+            .big{
+                    width: 300px ;
+                }
+
+                .prime{
+                    display: grid;
+                }
+
+                .ASP img{
+                    width: 300px;
+                }
+
+                .vegies img{
+                    width: 300px;
+                }
+
+                .art img{
+                    width: 300px;
+                }
+
+                .ASP{
+                    width: 350px;
+                }
+                
+                .vegies{
+                    width: 350px;
+                }
+
+                .art{
+                    width: 350px;
+                }
+
+                .pat{
+                    display: grid;
+                    margin:0px;
+                    width: 340px;
+                }
+
+                .skibidi img{
+                    width: 300px;
+                }
+
+                .was img{
+                    width: 300px;
+                }
+
+                .horns img{
+                    width: 300px;
+                }
+
+                .skibidi{
+                    width: 340px;
+                }
+
+                .was{
+                    width: 340px;
+                }
+
+                .horns{
+                    width: 340px;
+                }
+
+                .m{
+                    display: grid;
+                    margin:0px ;
+                    padding-left: 20px;
+                    height:110vh ;
+                }
+
+                .o{
+                    width: 250px;
+                }
+
+                .blue{
+                    background-repeat: no-repeat;
+                    height: 60vh;
+                    background-attachment: scroll;
+                }
+
+                .blue h1{
+                    color: blue;
+                
+                }
+}
